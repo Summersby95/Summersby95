@@ -2,9 +2,8 @@
 
 #### About Me
 
-* Currently studying for my Software Development Diploma through UCD/Code Institute
-* Currently working as a web application developer at Meade Farm Group
-* Seeking new learning and work experiences
+* Software engineer at Jaguar Land Rover
+* Seeking new learning experiences
 
 #### Contact Me
 
